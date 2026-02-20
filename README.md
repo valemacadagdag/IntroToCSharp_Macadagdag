@@ -1,13 +1,16 @@
 ‎# Prelim Activity 01 – Codac Logistics Delivery & Fuel Auditor
 ‎
+
 ‎## Student Information
 ‎Name: Vale Rose D. Macadagdag 
 ‎Course: BSIT
 ‎Subject: ADVANCE WEB DEVELOPMENT 
 ‎
+
 ‎## Lab Description
 ‎This activity is a C# Console Application developed for Codac Logistics.
 ‎
+
 ‎The program:
 ‎- Accepts the driver's full name
 ‎- Accepts weekly fuel budget (decimal)
@@ -21,6 +24,7 @@
 ‎
 ‎The system generates a weekly audit report based on the entered data.
 ‎
+
 ‎## Concepts Used
 ‎- string, int, double, decimal, bool
 ‎- Console.ReadLine()
@@ -28,6 +32,7 @@
 ‎- for loop (processing array)
 ‎- if-else statements
 ‎
+
 ‎## GitHub Repository Purpose
 ‎This repository contains the source code for Prelim Activity 01 in C#. 
 ‎The project demonstrates basic C# programming concepts including data types, loops, validation, arrays, and conditional statements.
